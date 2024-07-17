@@ -23,7 +23,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Lara
 - **User Feedback:** Provides success and error messages for user actions.
 
 ### Technologies Used
-- **Backend:** Laravel 10
+- **Backend:** Laravel 11
 - **Frontend:** HTML, CSS, Blade Templates
 - **Database:** MySQL
 - **Other:** Eloquent ORM, Laravel Migrations, Artisan Commands
