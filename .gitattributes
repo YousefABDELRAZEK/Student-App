@@ -7,4 +7,3 @@
 # Mark specific files or directories as generated (optional)
 /public/css/app.css linguist-generated=true
 /public/js/app.js linguist-generated=true
-
