@@ -1,11 +1,10 @@
-* text=auto eol=lf
+# Specify languages for file types
+*.js linguist-language=JavaScript
+*.php linguist-language=PHP
+*.html linguist-language=HTML
+*.css linguist-language=CSS
 
-*.blade.php diff=html
-*.css diff=css
-*.html diff=html
-*.md diff=markdown
-*.php diff=php
+# Mark specific files or directories as generated (optional)
+/public/css/app.css linguist-generated=true
+/public/js/app.js linguist-generated=true
 
-/.github export-ignore
-CHANGELOG.md export-ignore
-.styleci.yml export-ignore
